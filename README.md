@@ -16,7 +16,7 @@ mvn spring-boot:run
 /help will list all commands needed to operate this tool.
 
 ## Dependecy Injection
-Dependency Injection is demonstrated in the FilesClient, which switches between .txt and .dat file formats for saving and reading using setter-based injection. You can switch between these formats by typing into the shell:
+Dependency Injection is demonstrated in the FilesClient, which switches between .txt and .dat file formats for saving and reading using setter-based dependency injection. You can switch between these formats by typing into the shell:
 ```
 change txt
 change dat
