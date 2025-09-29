@@ -1,0 +1,12 @@
+1
+Attend Standup
+COMPLETE
+2
+Design Framework
+COMPLETE
+3
+Implement Dependency Injection
+COMPLETE
+4
+Commit Changes
+INCOMPLETE
